@@ -1,6 +1,9 @@
 # Contributor-owned folders
 _jauric_notes
 
+# remove vscode workspace files
+*.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
